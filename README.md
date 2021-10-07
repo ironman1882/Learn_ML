@@ -12,4 +12,4 @@ But still have the formatting problem. Finally I find a project that many help m
 
 Reference
 ---------------------
-[Community_Detection_Python_Numpy_Pandas_igraph] (https://github.com/ssinha3/Community_Detection_Python_Numpy_Pandas_igraph) by SHAYAN SINHA
+[Community_Detection_Python_Numpy_Pandas_igraph](https://github.com/ssinha3/Community_Detection_Python_Numpy_Pandas_igraph) by SHAYAN SINHA
