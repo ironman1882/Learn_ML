@@ -8,7 +8,7 @@ Last use the method that iGraph supply to calculate the answer.
 Problems when coding
 ----------------------
 I have try many methods to open the csv file and many models (like numpy,csv,array...etc) to get the data I want.
-But still have the formatting problem. Finally I find a project that many help me slove my problem.
+But still have the formatting problem. Finally I find a project that many help me solve my problem.
 
 Reference
 ---------------------
